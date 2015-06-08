@@ -56,7 +56,7 @@ function robj_css() {
 }
 
 function hello_robj_helicopter() {
-    return '<img src="http://robjanney.com/wp-content/uploads/2015/06/Full-size_replica_of_the_Airwolf.jpg">GET A SCREEN PEASANT</img>';
+    return '<img src="http://robjanney.com/wp-content/uploads/2015/06/Full-size_replica_of_the_Airwolf.jpg" alt="GET A SCREEN PEASANT"></img>';
 }
 
 add_shortcode( 'helicopter', 'hello_robj_helicopter' );
