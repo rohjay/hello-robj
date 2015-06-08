@@ -1,6 +1,6 @@
 === RobJ Quotes Plugin ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
+Contributors: shr3kst3r, tsewlliw
+Donate link: http://robjanney.com/donate/
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
